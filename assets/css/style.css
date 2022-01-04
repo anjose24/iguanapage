@@ -1,0 +1,108 @@
+
+html{
+width: 100%;
+}
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    width: 100%;
+}
+
+
+#tituloh1 h1{
+    text-align: center;
+    
+    font-size: 50px;
+    height: 73px;
+    margin: 15px 0;
+}
+#post img{
+    width: 100%;
+    padding:0;
+}
+#parrafofoto p {
+    display: inline-block;
+    vertical-align: middle;
+    width: 500px;
+    height: 100%;
+    margin-right: 15px 0;
+    text-align: left;
+}
+#parrafofoto img {
+    vertical-align: middle;
+    width: 400px;
+    margin-left: 15px;
+}
+#caracteristicas div h2{
+font-size: 40px;
+}
+#caracteristicas {
+display: inline-block;
+width:100%;
+text-align: center;
+background: #1E1A13;
+opacity: 98%;
+height: 348px;
+padding: 0;
+}
+
+#caracteristicas ul li {
+
+        display:inline-block;
+        font-size: 42px;
+        padding:10px;
+        color: white;
+}
+#caracteristicas ul li a{
+    margin: 90px;
+    color:white;
+    text-decoration: none;
+    font-size: 25px;
+    text-align: center;
+
+}
+.iconos{
+    display: inline-block;
+    font-size: 20px;
+    margin: 0 50px ;
+    
+    }
+    .iconos i{
+        font-size: 40px;
+    }
+    #parrafofoto {
+        display: inline-block;
+        width: 100%;
+        text-align: center;
+        margin: 20px;
+        } 
+#iguanos{
+    text-align: center;
+}
+#iguanos div img{
+    margin:50px 10px ;
+    width:316px;
+    height:202px;
+    font-size: 25px;
+
+}
+footer{
+    background-color: #1E1A13;
+    opacity: 94%;
+    text-align: center;
+    height: 102px;
+    width: 100%;
+    font-size: 20px; 
+    
+    }
+
+footer a{
+    display: inline-block;
+    
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    margin: 41px 0 41px 0;
+    
+}
